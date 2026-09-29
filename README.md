@@ -30,23 +30,15 @@ I've been shipping production code since 2021 and hold a Master's in Big Data & 
 
 ### `01` &nbsp;Full stack engineering
 
-| | |
-|---|---|
-| **Frontend** | React, Next.js, and Angular |
-| **Architecture** | Microservices connected with queues and events: Kafka, SQS, SNS, EventBridge, Lambda |
-| **APIs** | REST and GraphQL, secured with Spring Security and JWT, documented with Swagger |
-| **Payments** | Stripe, PayPal, Payzone, and Naps integrations |
-| **Domains** | Booking & property management · vehicle marketplace · garage management · affiliate comparison |
+<p align="center">
+  <img src="./assets/fullstack.svg" width="100%" alt="Full stack engineering. Frontend: React, Next.js and Angular with TypeScript. Architecture: microservices connected with Kafka, SQS, SNS, EventBridge and Lambda. APIs: REST and GraphQL secured with Spring Security and JWT, documented with Swagger. Payments: Stripe, PayPal, Payzone and Naps. Domains: booking and property management, vehicle marketplace, garage management, affiliate comparison." />
+</p>
 
 ### `02` &nbsp;Data engineering
 
-| | |
-|---|---|
-| **Ingestion** | Change Data Capture from Postgres / MySQL with Debezium into Kafka |
-| **Processing** | Stream and batch jobs in PySpark; Python and Pandas for wrangling |
-| **Warehouse** | Snowflake with layered models: staging → intermediate → marts |
-| **Modeling** | dbt sources, models, tests, and docs |
-| **Orchestration** | Airflow DAGs with retries and backfills |
+<p align="center">
+  <img src="./assets/data.svg" width="100%" alt="Data engineering pipeline. Ingestion: change data capture from Postgres and MySQL with Debezium into Kafka. Processing: stream and batch jobs in PySpark, Python and Pandas. Warehouse: Snowflake with staging, intermediate and mart layers. Modeling: dbt sources, models, tests and docs. Orchestration: Airflow DAGs with retries and backfills." />
+</p>
 
 ### `03` &nbsp;Where I've shipped
 
@@ -59,32 +51,33 @@ I've been shipping production code since 2021 and hold a Master's in Big Data & 
 
 ### `04` &nbsp;Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,nestjs,ts,graphql&theme=dark" alt="Java, Spring, Hibernate, Node.js, NestJS, TypeScript, GraphQL" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=kafka,py,postgres,mysql,mongodb,redis&theme=dark" alt="Kafka, Python, PostgreSQL, MySQL, MongoDB, Redis" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,jest&theme=dark" alt="AWS, Docker, Terraform, GitHub Actions, Git, Jest" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" alt="React, Next.js, Angular" />
+<p align="center">
+  <img src="./assets/toolbox.svg" width="100%" alt="Toolbox. Languages: Java, TypeScript, Python. Frontend: React, Next.js, Angular. Backend and APIs: Spring, Hibernate, Node.js, NestJS, GraphQL, Swagger. Testing: JUnit 5, Jest. Data: Debezium, Kafka, Spark, Pandas, dbt, Snowflake, Airflow. Databases: PostgreSQL, MySQL, MongoDB, Redis. DevOps: Docker, Terraform, GitHub Actions, Git. AWS: Lambda, API Gateway, S3, EC2, CloudWatch, CloudFormation, SQS." />
 </p>
 
-Plus **Debezium · Spark · dbt · Snowflake · Airflow · Pandas · JUnit 5 · Swagger**, and AWS **Lambda · API Gateway · S3 · EC2 · CloudWatch · CloudFormation**.
-
 <br>
 
-### `05` &nbsp;Right now
-
-- Building end-to-end **CDC → Kafka → Snowflake → dbt** pipelines
-- Going deeper on data modeling, data quality, and streaming reliability: idempotency, exactly-once delivery, schema evolution
-- Open to **backend, distributed-systems, and data engineering** roles, remote or international
-
-<br>
+### `05` &nbsp;GitHub analytics
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AZOMARDEV&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f1620&title_color=2dd4bf&icon_color=f5b041&text_color=e6edf3&ring_color=2dd4bf" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZOMARDEV&layout=compact&hide_border=true&langs_count=6&bg_color=0f1620&title_color=2dd4bf&text_color=e6edf3" />
+  <img width="100%" alt="GitHub profile details and contributions over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZOMARDEV&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AZOMARDEV&theme=github_dark" />
+  <img width="49%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AZOMARDEV&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AZOMARDEV&theme=github_dark" />
+  <img width="49%" alt="Commits by hour of day, UTC+1" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AZOMARDEV&theme=github_dark&utcOffset=1" />
+</p>
+
+<p align="center">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=AZOMARDEV&hide_border=true&background=0B1016&stroke=1E2A38&ring=2DD4BF&fire=F5B041&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=7D8A99&dates=7D8A99" />
+</p>
+
+<br>
 
 <p align="center">
   <sub>Casablanca, Morocco · <a href="mailto:omar_azhari@outlook.com">omar_azhari@outlook.com</a></sub>
