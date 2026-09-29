@@ -42,10 +42,9 @@ I've been shipping production code since 2021 and hold a Master's in Big Data & 
 
 ### `03` &nbsp;Where I've shipped
 
-- **Jabadoor**: short-term rental SaaS. Full Stack Engineer, joined as an intern.
-- **MisterVoiture**: used-vehicle marketplace. Full Stack Engineer, part-time.
-- **Onedustry Technologies**: internship.
-- **EVOSER IT Consulting**: internship.
+<p align="center">
+  <img src="./assets/shipped.svg" width="100%" alt="Projects shipped. Jabadoor: short-term rental SaaS for bookings and properties, Full Stack Engineer, built with React, Next.js, TypeScript, Stripe and PayPal. MisterVoiture: used-vehicle marketplace, Full Stack Engineer part-time, built with Next.js, TypeScript and MUI. Noscera: auth service built with Node.js, AWS Lambda, API Gateway and DynamoDB." />
+</p>
 
 <br>
 
@@ -56,6 +55,10 @@ I've been shipping production code since 2021 and hold a Master's in Big Data & 
 </p>
 
 <br>
+
+<p align="center">
+  <img src="./assets/looking.svg" width="100%" alt="Open to Full-Stack Engineer, Backend Engineer, Data Engineer and Software Architect roles. System design and architecture, distributed systems and data platforms. Remote or international." />
+</p>
 
 <p align="center">
   <sub>Casablanca, Morocco · <a href="mailto:omar_azhari@outlook.com">omar_azhari@outlook.com</a></sub>
