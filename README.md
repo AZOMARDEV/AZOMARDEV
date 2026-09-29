@@ -57,28 +57,6 @@ I've been shipping production code since 2021 and hold a Master's in Big Data & 
 
 <br>
 
-### `05` &nbsp;GitHub analytics
-
-<p align="center">
-  <img width="100%" alt="GitHub profile details and contributions over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZOMARDEV&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AZOMARDEV&theme=github_dark" />
-  <img width="49%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AZOMARDEV&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AZOMARDEV&theme=github_dark" />
-  <img width="49%" alt="Commits by hour of day, UTC+1" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AZOMARDEV&theme=github_dark&utcOffset=1" />
-</p>
-
-<p align="center">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=AZOMARDEV&hide_border=true&background=0B1016&stroke=1E2A38&ring=2DD4BF&fire=F5B041&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=7D8A99&dates=7D8A99" />
-</p>
-
-<br>
-
 <p align="center">
   <sub>Casablanca, Morocco · <a href="mailto:omar_azhari@outlook.com">omar_azhari@outlook.com</a></sub>
 </p>
